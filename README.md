@@ -96,8 +96,11 @@ Plotly            | `pip3 install plotly`            | An interactive, open-sour
 📲 As seen from the navigation bar on the left, we got Home, Disasters, and Extra. 
 
 📲 When it load the index page, the default page is Home. At Home page, I put some description about this project and also some photo related to natural disasters.
+![alt text](https://github.com/NurfaizahSahimi/Project2-Disasters-Response-Pipeline/blob/main/Screenshot/homepage.PNG "Homepage")
 
 📲 In Disasters section, I put the disasters response pipeline where you can type in your message and let the engine classify the category of your message. In bottom part you can see some data visualization which is plotted from the processed data.
+![alt text](https://github.com/NurfaizahSahimi/Project2-Disasters-Response-Pipeline/blob/main/Screenshot/disaster.PNG "Graph")
+![alt text](https://github.com/NurfaizahSahimi/Project2-Disasters-Response-Pipeline/blob/main/Screenshot/disaster_classify.PNG "Disaster Classify")
 
 📲 In Extra section, I put some discussion and info regarding the imbalanced data as this dataset is one kind of that data. 
 
