@@ -108,7 +108,7 @@ Plotly            | `pip3 install plotly`            | An interactive, open-sour
 ## Summary ##
 
 
-This project gave me an overview of how tedious it is to process the data from numerous source. It is kind of challenging but it really worth it. This project will play an important role to categorise the message and send appropriate aid as needed. There's still a lot of improvement can be done as discussed in the web app -> Extra section.
+This project gave me an overview of how tedious it is to process the data from numerous source. It is kind of challenging but it really worth it. This project will play an important role to categorise the message and send appropriate aid as needed. There's still a lot of improvement can be done as future work as this dataset contains imbalanced data.
 
 
 ## Acknowledgement ##
